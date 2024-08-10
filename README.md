@@ -4,6 +4,10 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Interactive Process</title>
     <style>
+        body {
+            background-color: #34495e;
+            color: white; /* Optional: Change text color to white for better contrast */
+        }
         .contact-icons {
             display: flex;
             gap: 10px;
@@ -23,7 +27,8 @@
 <body>
     <h1>Interactive the process Eng. Tarek Mohamed</h1>
 
-<iframe src="https://drive.google.com/file/d/13yinL3vCmhXFlaDI0vBq0tXgZEbbPqEC/preview" width="440" height="280" allow="autoplay"></iframe>    <p class="contact-message">لو واجهتك مشكلة ابعتلي</p>
+    <iframe src="https://drive.google.com/file/d/13yinL3vCmhXFlaDI0vBq0tXgZEbbPqEC/preview" width="440" height="280" allow="autoplay"></iframe>
+    <p class="contact-message">لو واجهتك مشكلة ابعتلي</p>
     <div class="contact-icons">
         <a href="https://www.facebook.com/mamro8529?mibextid=ZbWKwL" title="Facebook">
             <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg" alt="Facebook Icon">
@@ -36,4 +41,5 @@
         </a>
     </div>
     <p class="footer-text">Developed by Eng: Amr Mohamed</p>
-
+</body>
+</html>
